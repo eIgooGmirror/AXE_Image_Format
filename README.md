@@ -53,7 +53,7 @@ Bytes 9-12: Sprite Y Offset
 
 MODS
 
-# Chunk MODS (4D4F4453): Graphic Translations, Rotations
+# Chunk MODS (4D4F4453): Transformations
 
 Bytes 0-3: Sprite Size (Divided By 65536)
 
